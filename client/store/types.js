@@ -1,0 +1,10 @@
+export const SET_USER = "SET_USER";
+export const SET_SESSION_TIME = "SET_SESSION_TIME";
+export const SET_CURRENT_TIME = "SET_CURRENT_TIME";
+export const SET_BREAK_TIME = "SET_BREAK_TIME";
+export const SET_THEME = "SET_THEME";
+export const SET_TASK = "SET_TASK";
+export const SET_STATUS = "SET_STATUS";
+export const DELETE_TASK = "DELETE_TASK";
+export const SET_MODE = "SET_MODE";
+export const REHYDRATE = "REHYDRATE";
