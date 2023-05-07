@@ -1,5 +1,5 @@
 # PomoZen ⏰
-Pomodoro is a focus technique used to improve  focus. Your focus section (pomodoro) has 25 minutes, and you can use it to focus on learning, reading or any deep work, after that you have 5 minutes break (short break). Ofc if you want you can set custom timers. Enjoy!✌
+The pomodoro technique helps with concentration. You get a 25-minute focus portion (pomodoro) during which you can concentrate on reading, learning, or any other deep activity before taking a 5-minute brief break. Of course, you can set your own timers if you choose. Enjoy!✌
 
 
 ![Screenshot_20221228_195444](https://user-images.githubusercontent.com/79744258/209830931-531638a9-1915-40e9-ba4b-b30d3a4b2551.png)
@@ -25,7 +25,7 @@ Pomodoro is a focus technique used to improve  focus. Your focus section (pomodo
 
 # About project 🎯
 
-This project was made while I was learning and exploring NextJS. It is a productivity tool that I had quite a lot of fun while building and also learned quite a lot from this. I had used redux previously but this time was the first for using redux persist for persisting the session settings and user login. There are still some features I plan on adding like - 
+I created this app whilst I was researching and studying NextJS. It is a productivity tool that I built with a lot of enjoyment and gained a lot of knowledge from. Although I had previously used redux, this was the first time I had utilized redux persist to save the session settings and user login. There are still a few features I want to include, such as - 
 
 + Changeable sequence of tasks in todolist
 + Detailed graph of session statistics
